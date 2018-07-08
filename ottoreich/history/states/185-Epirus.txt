@@ -1,0 +1,32 @@
+
+state={
+	id=185
+	name="STATE_185"
+	manpower = 535149
+	
+	state_category = large_town
+	
+	resources={
+		chromium=11 
+		steel = 15 
+		oil=2
+	}
+
+	history={
+		owner = GRE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			military_complex = 1
+			air_base = 3
+			9805 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = GRE
+	}
+
+	provinces={
+	 1106 1205 9916 11786 11895 12001 
+	}
+}

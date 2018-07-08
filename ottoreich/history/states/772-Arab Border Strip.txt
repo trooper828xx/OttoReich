@@ -1,0 +1,23 @@
+state={
+	id=772
+	name="STATE_772"
+	manpower = 65000
+	
+	state_category = pastoral
+	resources={
+		oil=1
+	}
+
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SAU
+		add_core_of = TUR
+	}
+
+	provinces={
+		  4974 8101 10815  
+	}
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=105
+	name="STATE_105" # Montenegro
+	manpower = 258421
+	
+	state_category = town
+	
+	resources={
+		chromium=25
+		aluminium=38
+		steel=6
+	}
+
+	history={
+		owner = YUG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			9809 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = YUG
+	}
+
+	provinces={
+		 937 3922 9821 11858 
+	}
+}

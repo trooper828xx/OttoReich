@@ -1,0 +1,35 @@
+state={
+	id=777
+	name="STATE_777"
+
+	history={
+		owner = TUR
+		victory_points = {
+			1599 5 
+		}
+		victory_points = {
+			3653 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			air_base = 3
+			3653 = {
+				naval_base = 2
+				coastal_bunker = 1
+
+			}
+
+		}
+		add_core_of = TUR
+		add_core_of = GEO
+
+	}
+
+	provinces={
+		654 672 772 1530 1599 3653 3656 3658 6669 6671 9626 9702 11599 11617 
+	}
+	manpower=2713432
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=768
+	name="STATE_768"
+	manpower = 146371
+	
+	state_category = rural
+	
+	resources={
+		chromium=12
+		steel = 7
+	}
+
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			}
+		add_core_of = TUR
+		add_core_of = GRE
+	}
+
+	provinces={
+		841 3980 9837
+	}
+}

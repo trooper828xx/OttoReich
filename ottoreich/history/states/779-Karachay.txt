@@ -1,0 +1,25 @@
+state={
+	id=779
+	name="STATE_779"
+	resources={
+		chromium=4
+		steel=7
+	}
+
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = TUR
+
+	}
+
+	provinces={
+		6674 6692 9632 11664 
+	}
+	manpower=183902
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

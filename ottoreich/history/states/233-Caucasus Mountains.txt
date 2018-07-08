@@ -1,0 +1,26 @@
+state={
+	id=233
+	name="STATE_233"
+	resources={
+		chromium=25
+		aluminium = 8
+	}
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		666 670 685 1455 3667 9628 9647 9649 11609 11614 
+	}
+	manpower=452079
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

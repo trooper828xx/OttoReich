@@ -1,0 +1,25 @@
+state={
+	id=765
+	name="STATE_765"
+	manpower = 95500
+	
+	state_category = pastoral
+	
+	resources={
+		steel = 3
+	}
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			
+		}
+	}
+
+	provinces={
+		9874 
+	}
+}

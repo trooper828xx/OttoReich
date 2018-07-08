@@ -1,0 +1,28 @@
+
+state={
+	id=774
+	name="STATE_774" #Kenya
+	manpower = 658962
+	
+	state_category = rural
+
+	history={
+		owner = ETH
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			5210 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			5210 1
+		}
+		add_core_of = KEN
+		add_core_of = ETH
+	}
+
+	provinces={
+		 2066 8133 10761 10976 12927  
+	}
+}
