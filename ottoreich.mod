@@ -1,4 +1,4 @@
-﻿name="Ottoreich"
+﻿name="Sulieman's Dream"
 path="mod/ottoreich/"
 tags={
 	"Alternative History"
