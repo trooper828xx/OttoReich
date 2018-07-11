@@ -1,0 +1,23 @@
+
+state={
+	id=781
+	name="STATE_781"
+	
+	state_category = town
+
+	history={
+		owner = PAR
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = PAR
+
+	}
+
+	provinces={
+		5200
+	}
+	manpower=130000
+	buildings_max_level_factor=1.000
+}

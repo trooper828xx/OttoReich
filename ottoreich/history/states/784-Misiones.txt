@@ -1,0 +1,25 @@
+state={
+	id=784
+	name="STATE_784"
+	manpower = 154991
+	resources={
+		oil=8
+		steel=6
+	}
+	
+	state_category = rural
+
+	history={
+		owner = PAR
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+		}
+		add_core_of = PAR
+	}
+
+	provinces={
+		11007
+	}
+}
